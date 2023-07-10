@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T08:05:48.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KbL5eJ5rDaiKoKqaFplZ" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T08:30:17.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AkQqkrMXDEVDM3N3os_H" version="21.6.1" type="github">
   <diagram name="Page-1" id="pANa6QSsuT0SR9jFWPj6">
     <mxGraphModel dx="1697" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,9 +31,6 @@
         <mxCell id="x7obt2TXLHU_Npi7voIH-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-320" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x7obt2TXLHU_Npi7voIH-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-128.png" vertex="1" parent="1">
-          <mxGeometry x="35" y="-350" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="x7obt2TXLHU_Npi7voIH-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/704_Arrow_chart_curve_experience_goal-128.png" vertex="1" parent="1">
           <mxGeometry x="-360" y="-99" width="50" height="50" as="geometry" />
         </mxCell>
@@ -47,9 +44,9 @@
           <mxGeometry x="-80" y="20" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="x7obt2TXLHU_Npi7voIH-20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Quick_Start_Center.svg;" vertex="1" parent="1">
-          <mxGeometry y="-210" width="50" height="50" as="geometry" />
+          <mxGeometry x="30" y="-350" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x7obt2TXLHU_Npi7voIH-21" value="model path" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="x7obt2TXLHU_Npi7voIH-21" value="model" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-385" y="-280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7obt2TXLHU_Npi7voIH-22" value="input data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -87,6 +84,18 @@
         </mxCell>
         <mxCell id="x7obt2TXLHU_Npi7voIH-34" value="batch size" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-268" y="-120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x7obt2TXLHU_Npi7voIH-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/user-interface-181/32/Location-128.png" vertex="1" parent="1">
+          <mxGeometry x="-243" y="-90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x7obt2TXLHU_Npi7voIH-37" value="checkpointing info&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-261" y="-50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x7obt2TXLHU_Npi7voIH-38" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_set;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-283" width="34.73" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="x7obt2TXLHU_Npi7voIH-39" value="data preparing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-72.63" y="-250" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
